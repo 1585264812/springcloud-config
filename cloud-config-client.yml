@@ -19,7 +19,7 @@ server:
 spring:
   profiles: test
   application:
-    name: cloud-config-client
+    name: cloud-config-client-aa
 eureka:
   client:
     service-url:
